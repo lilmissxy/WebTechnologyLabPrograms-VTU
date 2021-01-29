@@ -1,0 +1,40 @@
+#calci{
+
+  max-width: 320px;
+  height: 400px;
+  margin: auto;
+  margin-top: 5%;
+  font-family: sans-serit;
+  letter-spacing: 0.5px;
+  position: relative;
+  background-color: #76d7c4 ;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 2%;
+}
+
+input[type=button]{
+  width: 60px;
+  height:80px;
+  font-size: 18px;
+  border-radius: 15%;
+  color: white;
+  background-color: #48c9b0 ;
+  margin-left: 13px;
+  margin-top: 10px;
+}
+
+input[type=button]:hover{
+  color: black;
+  background-color:  #148f77 ;
+}
+
+input[type=text]{
+  width: 95%;
+  height: 30px;
+  border-radius: 7%;
+  position: center;
+  font-size: 16px;
+  background-color:  #d1f2eb ;
+}
+
